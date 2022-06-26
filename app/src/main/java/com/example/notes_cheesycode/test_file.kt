@@ -9,3 +9,5 @@ class test3 {}
 class test4 {}
 
 class hi {}
+
+class hhhhh {}
